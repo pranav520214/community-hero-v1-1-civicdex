@@ -1,0 +1,17 @@
+*.iml
+.gradle
+.kotlin
+.idea/
+.DS_Store
+.env
+.env.local
+.env.*.local
+local.properties
+/build
+/captures
+.externalNativeBuild
+.cxx
+debug.keystore
+my-upload-key.jks
+node_modules/
+lib/

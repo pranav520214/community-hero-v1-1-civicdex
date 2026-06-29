@@ -1,0 +1,31 @@
+{"users": [
+{
+  "localId": "7ZKPYMk8dYZmRoOrH5VRx2iri963",
+  "email": "helper1@civicdex.org",
+  "emailVerified": false,
+  "passwordHash": "pvfe6S079zT5LZX/lfRp4hB2iKzgDGrEHd/CMIg8VjHkKfP+6NKHI8S8L/FciWd3tU80yYvOKWDkcqezTZHNGw==",
+  "salt": "JZGDa26k+d0Ftg==",
+  "lastSignedInAt": "1782565115456",
+  "createdAt": "1782562540759",
+  "providerUserInfo": []
+},
+{
+  "localId": "LGidDVcZnHT9sfrMjTDmyil3t0f2",
+  "email": "citizen1@gmail.com",
+  "emailVerified": false,
+  "passwordHash": "5ETPxlijfZNaWPx3Vz+WeI80T9Rwrb5n+p/TER+Umy7d65QSnSkAwv4bbkyDszcmdp01Dgbme4zWngvXoFDK0w==",
+  "salt": "pUvBhahxcsWtbQ==",
+  "lastSignedInAt": "1782565116178",
+  "createdAt": "1782562532002",
+  "providerUserInfo": []
+},
+{
+  "localId": "zp5p8SELodgbat18KEI8AgghPEM2",
+  "email": "aparijitacooksandbakes@gmail.com",
+  "emailVerified": false,
+  "passwordHash": "fxm0cRzdtu1ucRp9Ttt4e96tBVU/N6dbYcEVkqdeKMVVnPxiZe5mJ8P+6wkiJBJA09EqN/uCM1VZNem5wQZXqg==",
+  "salt": "sQzMCwH+yB0cBw==",
+  "createdAt": "1782565099932",
+  "disabled": false,
+  "providerUserInfo": []
+}]}
