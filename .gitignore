@@ -1,17 +1,37 @@
-*.iml
-.gradle
-.kotlin
-.idea/
-.DS_Store
+```
+# Dependencies
+node_modules/
+
+# Environment variables
 .env
 .env.local
-.env.*.local
-local.properties
-/build
-/captures
-.externalNativeBuild
-.cxx
-debug.keystore
-my-upload-key.jks
-node_modules/
-lib/
+.env.*
+
+# Next.js
+.next/
+out/
+
+# TypeScript
+*.tsbuildinfo
+*.js.map
+*.mjs.map
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.tmp
+
+# Build outputs
+dist/
+build/
+target/
+```
