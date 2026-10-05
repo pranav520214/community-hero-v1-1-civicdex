@@ -1,23 +1,36 @@
-```
 # Dependencies
 node_modules/
 
-# Environment variables
+# Secrets & Keys
+*.jks
+*.keystore
+local.properties
 .env
 .env.local
 .env.*
+!.env.example
 
-# Next.js
+# Next.js / Web
 .next/
 out/
+dist/
+build/
+
+# Android
+.gradle/
+build/
+captures/
 
 # TypeScript
 *.tsbuildinfo
 *.js.map
 *.mjs.map
 
-# Logs
+# Logs & Data
 *.log
+*.csv
+*.pdf
+users.json
 
 # OS generated files
 .DS_Store
@@ -28,10 +41,3 @@ Thumbs.db
 .idea/
 *.swp
 *.swo
-*.tmp
-
-# Build outputs
-dist/
-build/
-target/
-```
